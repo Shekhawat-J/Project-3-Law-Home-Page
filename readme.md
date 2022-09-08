@@ -1,7 +1,7 @@
 # Law Home Page
 
 # Live Link
-[Live Link](https://saas-landing-page-ui.netlify.app/)
+[Live Link](https://law-home-page-ui.netlify.app/)
 
 [GitHub Link](https://github.com/Shekhawat-J/Project-3-Law-Home-Page)
 
